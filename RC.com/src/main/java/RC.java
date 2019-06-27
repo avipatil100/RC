@@ -13,7 +13,8 @@ public class RC{
 	
 	public static void main(String args[]) throws Throwable
 	{
-		 RcComparetor();
+		RcComparetor(); 
+		RcComparetor();
 		 try
 	        { 
 	           // Just one line and you are done !  
